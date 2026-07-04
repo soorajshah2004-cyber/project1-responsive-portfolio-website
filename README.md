@@ -42,13 +42,20 @@ This is a responsive freelancer portfolio website that I built using only HTML a
 
 ## Live Demo
 
-(Add link)
+[(Add link)](https://project1responsive-portfolio-website.netlify.app/)
 
 ---
 
 ## Screenshots
 
-(Add screenshots)
+<img width="1366" height="768" alt="fullscreensection2view" src="https://github.com/user-attachments/assets/5036d2c8-180f-4364-bc3f-c7876cbdd9ee" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6c900910-fd33-49aa-99c3-bb79e4aff983" />
+<img width="345" height="524" alt="image" src="https://github.com/user-attachments/assets/3925fe39-f284-4457-b6c0-fef6e8151319" />
+<img width="215" height="465" alt="image" src="https://github.com/user-attachments/assets/c038bc2c-528b-4637-945b-c925c2cf925a" />
+
+
+
+
 
 ---
 
